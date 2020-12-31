@@ -1,0 +1,57 @@
+body {
+  background-color: #EAF6F6;
+  font-size: 13px;
+}
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style:dotted none none;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: cursive;
+  font-style: italic;
+}
+
+h3 {
+  color: #66BFBF;
+  font: 22px monospace;
+}
+
+
+p {
+  color: #11698e;
+  font-family: sans-serif;
+}
+
+li {
+  color: #11698e;
+  font-family: sans-serif;
+  margin-top: 10px;
+}
+
+table {
+  color: #11698e;
+  font-family: sans-serif;
+}
+
+td {
+    padding: 5px;
+}
+
+label {
+  color: #11698e;
+}
+
+.emo {
+  width: 18px;
+  height: 18px
+}
+
+#idpic {
+  width: 150px;
+  height: 150px
+}
