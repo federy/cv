@@ -109,21 +109,27 @@ a:hover {
 }
 
 .ds-img {
-  width: 150px;
+  width: 9.8rem;
   float: left;
   margin-right: 30px;
 }
 
-.pm-img {
-  width: 150px;
+.bi-img {
+  width: 9.8rem;
   float: right;
   margin-left: 30px;
 }
 
-.code-img {
-  width: 150px;
+.pm-img {
+  width: 9.8rem;
   float: left;
   margin-right: 30px;
+}
+
+.code-img {
+  width: 9.8rem;
+  float: right;
+  margin-left: 30px;
 }
 
 /*
